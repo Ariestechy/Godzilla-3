@@ -1,6 +1,5 @@
 # DeCoDe Music 🎶
 
-<p align="center"><a href="https://t.me/Innexiabot"><img src="https://github.com/TeamDeeCode/decodemusic/raw/PyTgCalls/ImageFont/decode.png"></a></p>
 
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
