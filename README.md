@@ -2,8 +2,11 @@
 
 <p align="center"><a href="https://t.me/Innexiabot"><img src="https://github.com/TeamDeeCode/decodemusic/raw/PyTgCalls/ImageFont/decode.png"></a></p>
 
-## Heroku Deployment <img src="./ImageFont/Kenpurple.gif" width="40px">
-The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
+## ✨ Heroku Deploy ✨
+The easiest way to deploy this Bot is via Heroku.
+
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/DONOFTELEGRAM/ProMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/BrayDanXD/ProMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
